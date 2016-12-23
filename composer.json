@@ -1,0 +1,20 @@
+{
+    "name": "vietfreshair/notification",
+    "description": "The Notification Package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leo Nguyen",
+            "email": "duyngha@gmail.com"   
+        }
+    ],
+    "require": {
+        "php": ">=5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vietfreshair\\Notification\\": ""
+        }
+    },
+    "minimum-stability": "dev"
+}
