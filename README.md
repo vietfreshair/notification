@@ -1,2 +1,2 @@
 # notification
-VFA Module: Create a notification in WP
+**[VFA Module]** A Bough of Vietfreshair Tree
