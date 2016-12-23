@@ -1,0 +1,8 @@
+# composer
+composer.phar
+composer.json
+composer.lock
+vendor/
+
+# wp test
+module.php
